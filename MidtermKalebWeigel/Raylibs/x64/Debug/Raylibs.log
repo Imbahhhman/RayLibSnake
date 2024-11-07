@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Raylibs.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Memory.cpp
+C:\Users\lcv2342590\Desktop\MidtermKalebWeigel\Raylibs\Memory.cpp(41,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\lcv2342590\Desktop\MidtermKalebWeigel\Raylibs\Memory.cpp(62,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Raylibs.vcxproj -> C:\Users\lcv2342590\Desktop\MidtermKalebWeigel\x64\Debug\2DProgrammingMidtermKalebW.exe
